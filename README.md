@@ -2,9 +2,6 @@
 
 Easy ideas to start contributing on Github, get [free T-Shirts](http://hacktoberfest.digitalocean.com/) every year!
 
-## Step to Pull Request
-Folk >> Clone >> NewBranch >> Edit >> Commit >> Push >> PullRequest  
-
 ## PR Ideas
 
 - Add ideas to this repo! 😂
@@ -28,6 +25,10 @@ Try contributing to this repo itself. (So meta...)
 
 - Append the `PR Ideas` list, then open the Pull Request
 - Or see [issues](https://github.com/narze/hacktoberfest_ez/issues) for more easy peasy tasks.
+
+### Steps to open a Pull Request
+
+Folk >> Clone >> NewBranch >> Edit >> Commit >> Push >> PullRequest
 
 ## Learning
 
