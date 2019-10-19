@@ -62,7 +62,6 @@ Folk >> Clone >> NewBranch >> Edit >> Commit >> Push >> PullRequest
 Go to github.com and make an account and see tutorials on:
 
 - how to fork the project
-
 - how to create a repository
 - how to clone the repository
 - how to make a pull request
