@@ -9,6 +9,7 @@ Easy ideas to start contributing on Github, get [free T-Shirts](http://hacktober
 - Fix typos (Try searching `funcation` in Github...)
 - Translate project readme.md to local language
 - Fix issue in open source project
+- explore codetriage.com
 
 ## No ideas?
 
