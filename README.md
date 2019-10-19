@@ -7,6 +7,7 @@ Easy ideas to start contributing on Github, get [free T-Shirts](http://hacktober
 - Fix code formatting
 - Fix typos (Try searching `funcation` in Github...)
 - Translate project readme.md to local language
+- explore codetriage.com
 
 ## No ideas?
 Try contributing to this repo itself. (So meta...)
