@@ -32,11 +32,11 @@ Folk >> Clone >> NewBranch >> Edit >> Commit >> Push >> PullRequest
 
 ## Learning
 
-Go on Github and made an account and see tutorials on:
+Go to github.com and make an account and see tutorials on:
 
 - how to fork the project
 - how to create a repository
 - how to clone the repository
 - how to make a pull request
 
-and made your contribution towards Open Source in Hacktoberfest
+and make your contribution towards Open Source in Hacktoberfest
