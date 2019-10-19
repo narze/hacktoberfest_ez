@@ -1,4 +1,5 @@
 # Hacktoberfest EZ
+[![PDD status](http://www.0pdd.com/svg?name=narze/hacktoberfest_ez)](http://www.0pdd.com/p?name=narze/hacktoberfest_ez)
 
 Easy ideas to start contributing on Github, get [free T-Shirts](http://hacktoberfest.digitalocean.com/) every year!
 
