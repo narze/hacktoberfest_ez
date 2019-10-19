@@ -19,3 +19,11 @@ Try contributing to this repo itself. (So meta...)
 ## Contributing
 - Append the `PR Ideas` list, then open the Pull Request
 - Or see [issues](https://github.com/narze/hacktoberfest_ez/issues) for more easy peasy tasks.
+ ## Learning 
+ - Go on Github and made an account and see tutorials on 
+    -how to fork the project
+    -how to made a repository
+    -how to clone
+    -how to make a pull request
+    
+ and made your contribution towards Open Source in Hactoberfest   
