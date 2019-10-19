@@ -8,5 +8,13 @@ Easy ideas to start contributing on Github, get [free T-Shirts](http://hacktober
 - Fix typos (Try searching `funcation` in Github...)
 - Translate project readme.md to local language
 
+## No ideas?
+Try contributing to this repo itself. (So meta...)
+- Fix typos if you see dem.
+- Add frontend
+- Add more readme
+- Add tests, cli, Docker image which prints PR ideas
+- Add to this list
+
 ## Contributing
 - Append the `PR Ideas` list, then open the Pull Request
