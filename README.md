@@ -57,6 +57,28 @@ Folk >> Clone >> NewBranch >> Edit >> Commit >> Push >> PullRequest
 2. go to new branch by command "git checkout #branch'name"
    ![Alt text](images/branch-2.png)
 
+### Commit
+
+1.  Click stage all change & writ commit message
+    ![Alt text](images/commit-1.png)
+2.  Click Commit button
+    ![Alt text](images/commit-2.png)
+
+### Push
+
+1. Click Sync button (bottom of vscode)
+   ![Alt text](images/push-1.png)
+
+### Pull Request
+
+1. refresh your hacktoberfest_ez website & click "Compare & pull Request"
+   ![Alt text](images/pr-1.png)
+
+2. wirte desciption pull request & click "Create pull request"
+   ![Alt text](images/pr-2.png)
+3. Done
+   ![Alt text](images/pr-3.png)
+
 ## Learning
 
 Go to github.com and make an account and see tutorials on:
