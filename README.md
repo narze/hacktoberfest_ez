@@ -27,7 +27,7 @@ Try contributing to this repo itself. (So meta...)
 - Or see [issues](https://github.com/narze/hacktoberfest_ez/issues) for more easy peasy tasks.
 
 ### Steps to open a Pull Request
-
+<!-- @todo #1 We need to describe these steps with more detail to it. -->
 Folk >> Clone >> NewBranch >> Edit >> Commit >> Push >> PullRequest
 
 ## Learning
