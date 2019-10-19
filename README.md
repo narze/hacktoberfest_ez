@@ -25,7 +25,7 @@ Try contributing to this repo itself. (So meta...)
 ## Contributing
 
 - Append the `PR Ideas` list, then open the Pull Request
-- Or see [issues](https://github.com/narze/hacktoberfest_ez/issues) for more easy peasy tasks.
+- Or see [issues](https://github.com/narze/hacktoberfest_ez/issues) for more easy peasy tasks. Some of these issues are added from [PDD Puzzles](http://www.0pdd.com/)
 
 ### Steps to open a Pull Request
 <!-- @todo #1 We need to describe these steps with more detail to it. -->
