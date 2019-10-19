@@ -10,7 +10,7 @@ Easy ideas to start contributing on Github, get [free T-Shirts](http://hacktober
 
 ## No ideas?
 Try contributing to this repo itself. (So meta...)
-- Fix typos if you see dem.
+- Fix typos if you see dem. 👀
 - Add frontend
 - Add more readme
 - Add tests, cli, Docker image which prints PR ideas
@@ -18,3 +18,4 @@ Try contributing to this repo itself. (So meta...)
 
 ## Contributing
 - Append the `PR Ideas` list, then open the Pull Request
+- Or see [issues](https://github.com/narze/hacktoberfest_ez/issues) for more easy peasy tasks.
