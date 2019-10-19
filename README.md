@@ -2,6 +2,9 @@
 
 Easy ideas to start contributing on Github, get [free T-Shirts](http://hacktoberfest.digitalocean.com/) every year!
 
+## Step to Pull Request
+Folk >> Clone >> NewBranch >> Edit >> Commit >> Push >> PullRequest  
+
 ## PR Ideas
 - Add ideas to this repo! 😂
 - Fix code formatting
