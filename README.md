@@ -12,6 +12,7 @@ Easy ideas to start contributing on Github, get [free T-Shirts](http://hacktober
 - Translate project readme.md to local language
 - Fix issue in open source project
 - explore codetriage.com
+- Add [mini-game](https://github.com/chunza2542/noobtoberfest)
 
 ## No ideas?
 
