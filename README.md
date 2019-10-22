@@ -17,7 +17,7 @@ Easy ideas to start contributing on Github, get [free T-Shirts](http://hacktober
 
 Try contributing to this repo itself. (So meta...)
 
-- Fix typos if you see dem. 👀
+- Fix typos if you see them. 👀
 - Add frontend
 - Add more readme
 - Add tests, cli, Docker image which prints PR ideas
