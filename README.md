@@ -32,9 +32,9 @@ Try contributing to this repo itself. (So meta...)
 
 <!-- @todo #1 We need to describe these steps with more detail to it. -->
 
-Folk >> Clone >> NewBranch >> Edit >> Commit >> Push >> PullRequest
+Fork >> Clone >> NewBranch >> Edit >> Commit >> Push >> PullRequest
 
-### Folk
+### Fork
 
 1. Click Fork button
    ![Alt text](images/fork-1.png)
