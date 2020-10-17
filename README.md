@@ -38,18 +38,18 @@ Fork >> Clone >> NewBranch >> Edit >> Commit >> Push >> PullRequest
 
 ### Fork
 
-1. Click Fork button.
+1. Click **Fork** button.
    ![Alt text](images/fork-1.png)
 2. Wait until it is done.
    ![Alt text](images/fork-2.png)
 
 ### Clone
 
-1. Copy the HTTPS repo link.
+1. Copy the **HTTPS** repo link.
    ![Alt text](images/clone-1.png)
 2. Open a terminal and write a command `git clone [your repo link]`.
    ![Alt text](images/clone-2.png)
-3. Go to hacktoberfest_ez folder.
+3. Go to hacktoberfest_ez/ folder.
    ![Alt text](images/clone-3.png)
 
 ### New Branch
@@ -61,10 +61,16 @@ Fork >> Clone >> NewBranch >> Edit >> Commit >> Push >> PullRequest
 
 ### Commit
 
+#### via VS Code
+
 1.  Click stage all change & write commit message.
     ![Alt text](images/commit-1.png)
 2.  Click Commit button.
     ![Alt text](images/commit-2.png)
+
+#### via terminal
+1. Open a terminal and write a command `git add .`
+2. write a command `git commit -m [your commit message]`.
 
 ### Push
 
