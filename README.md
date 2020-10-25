@@ -1,3 +1,7 @@
+Read this in other languages.
+
+[Thai](readme.th.md)
+
 # Hacktoberfest EZ
 
 [![PDD status](http://www.0pdd.com/svg?name=narze/hacktoberfest_ez)](http://www.0pdd.com/p?name=narze/hacktoberfest_ez)
