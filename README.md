@@ -9,7 +9,7 @@ Easy ideas to start contributing on Github, get [free T-Shirts](http://hacktober
 
 - Add ideas to this repo! 😂
 - Fix code formatting.
-- Fix typos. (Try searching `funcation` in Github...)
+- Fix typos. (Try searching `function` in Github...)
 - Translate project readme.md to local language.
 - Fix issue in open source project.
 - Explore codetriage.com.
@@ -69,6 +69,7 @@ Fork >> Clone >> NewBranch >> Edit >> Commit >> Push >> PullRequest
     ![Alt text](images/commit-2.png)
 
 #### via terminal
+
 1. Open a terminal and write a command `git add .`
 2. write a command `git commit -m [your commit message]`.
 
