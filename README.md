@@ -9,7 +9,7 @@ Easy ideas to start contributing on Github, get [free T-Shirts](http://hacktober
 
 - Add ideas to this repo! 😂
 - Fix code formatting.
-- Fix typos. (Try searching `function` in Github...)
+- Fix typos. (Try searching `funcation` in Github...)
 - Translate project readme.md to local language.
 - Fix issue in open source project.
 - Explore codetriage.com.
