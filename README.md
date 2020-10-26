@@ -1,6 +1,6 @@
 Read this in other languages.
 
-[Thai](readme.th.md)
+[Thai](README.th.md)
 
 # Hacktoberfest EZ
 
