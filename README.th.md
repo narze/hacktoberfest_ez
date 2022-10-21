@@ -7,7 +7,7 @@ Read this in other languages.
 [![PDD status](http://www.0pdd.com/svg?name=narze/hacktoberfest_ez)](http://www.0pdd.com/p?name=narze/hacktoberfest_ez)
 [![Hacktoberfest](https://img.shields.io/github/hacktoberfest/2019/narze/hacktoberfest_ez)](https://github.com/narze/hacktoberfest_ez/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)
 
-ไอเดียง่ายๆในการเล่น Hacktoberfest ใน Github, รับ [เสื้อฟรี](http://hacktoberfest.digitalocean.com/) กันได้ทุกปี!
+ไอเดียง่าย ๆ ในการเล่น Hacktoberfest ใน Github, รับ [เสื้อฟรี](http://hacktoberfest.digitalocean.com/) กันได้ทุกปี!
 
 ## ไอเดียการเปิด PR
 
@@ -21,7 +21,7 @@ Read this in other languages.
 
 ## คิดไม่ออก?
 
-ก็ contribute ใน repo นี้ซะเลย (meta จัดๆ...)
+ก็ contribute ใน repo นี้ซะเลย (meta จัด ๆ ...)
 
 - แก้คำผิดถ้าหาเจอ 👀
 - ทำหน้า frontend
@@ -32,7 +32,7 @@ Read this in other languages.
 ## การมีส่วนร่วม
 
 - ไปเพิ่มหัวข้อใน `PR Ideas` แล้วเปิด Pull Request
-- หรือไปหาดู [issues](https://github.com/narze/hacktoberfest_ez/issues) หาอันง่ายๆทำ บาง issue ก็เอามาจาก [PDD Puzzles](http://www.0pdd.com/)
+- หรือไปหาดู [issues](https://github.com/narze/hacktoberfest_ez/issues) หาอันง่าย ๆ ทำ บาง issue ก็เอามาจาก [PDD Puzzles](http://www.0pdd.com/)
 
 ### วิธีการเปิด Pull Request
 
@@ -86,7 +86,7 @@ Fork >> Clone >> NewBranch >> Edit >> Commit >> Push >> PullRequest
 1. กด Refresh หน้า hacktoberfest_ez ใน browser ของคุณแล้วกดปุ่ม "Compare & pull Request"
    ![Alt text](images/pr-1.png)
 
-2. เขียนคำอธิบายของ pull request นั้นๆแล้วกด "Create pull request"
+2. เขียนคำอธิบายของ pull request นั้น ๆ แล้วกด "Create pull request"
    ![Alt text](images/pr-2.png)
 3. เรียบร้อย!
    ![Alt text](images/pr-3.png)
