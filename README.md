@@ -68,8 +68,11 @@ Fork >> Clone >> NewBranch >> Edit >> Commit >> Push >> PullRequest
 #### via VS Code
 
 1.  Click stage all change & write commit message.
+
     ![Alt text](images/commit-1.png)
+    
 2.  Click Commit button.
+
     ![Alt text](images/commit-2.png)
 
 #### via terminal
